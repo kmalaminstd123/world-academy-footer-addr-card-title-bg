@@ -27,6 +27,10 @@ ul {
     margin-top: 15px;
 }
 
+.ftco-footer-widget ul{
+    font-size: 14px;
+}
+
 .office-title {
     font-size: 26px;
     font-weight: 700;
